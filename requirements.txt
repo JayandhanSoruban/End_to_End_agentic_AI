@@ -9,3 +9,4 @@ unstructured
 arxiv
 PyMuPDF
 wikipedia
+langchain-text-splitters
