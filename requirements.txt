@@ -3,3 +3,12 @@ python-dotenv
 langchain_community
 pypdf
 PyMuPDF
+bs4
+langchain
+arxiv
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
